@@ -13,6 +13,7 @@ const ProfileSettings = () => {
   return (
     <Box sx={flexCenter}>
       <Link href="#"> Become A Host</Link>
+      
       <Stack>
         <Button>
           <BsGlobe size={24} />
